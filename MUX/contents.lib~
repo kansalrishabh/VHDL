@@ -1,0 +1,9 @@
+52
+~E 1 "./src/behavioral.vhd" 28 behavioral
+~A 1 "./src/behavioral.vhd" 35 behavioral
+~E 1 "./src/and1.vhd" 28 and1
+~A 1 "./src/and1.vhd" 35 and1
+~E 1 "./src/not1.vhd" 28 not1
+~A 1 "./src/not1.vhd" 34 not1
+~E 1 "./src/structural.vhd" 28 structural
+~A 1 "./src/structural.vhd" 35 structural
